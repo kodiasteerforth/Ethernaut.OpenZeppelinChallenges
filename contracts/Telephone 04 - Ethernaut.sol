@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT   
 // SPDX license identifier for the contract.
 
+// Claim Ownership of this contract ?
+
 pragma solidity ^0.8.0;    
 // Solidity version used to compile the contract.
 
